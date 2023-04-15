@@ -10,14 +10,14 @@ I'm Nikita 🤗
 ## Primary skills
 - Node.js, PHP
 - Cryptocurrencies (bitcoin, ethereum & others)
-- JavaScript, CSS, HTML
-- Apache Cordova
+- JavaScript (Vue, Svelte, React), CSS, HTML
+- Apache Cordova (iOS, Android)
 - MongoDB, LevelDB, MySQL, PostgreSQL
 - Docker, Kubernetes, Google Cloud, AWS, DigitalOcean
 
 ## Secondary skills
 
-- C++, Java, Objective-C, Swift, Ruby
+- Python, Ruby, C++, Java, Objective-C, Swift
 - Memcache, Redis, APC, XCache
 - Unix Server administration
 - GitHub, Gitlab, Bitbucket
