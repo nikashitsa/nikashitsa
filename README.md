@@ -8,7 +8,7 @@ I'm Nikita 🤗
 - CEO at [Meming World](https://meming.world)
 
 ## Primary skills
-- Node.js, PHP
+- Node.js
 - Cryptocurrencies (bitcoin, ethereum & others)
 - JavaScript (Vue, Svelte, React), CSS, HTML
 - Apache Cordova (iOS, Android)
@@ -17,7 +17,7 @@ I'm Nikita 🤗
 
 ## Secondary skills
 
-- Python, Ruby, C++, Java, Objective-C, Swift
+- PHP, Python, Ruby, C++, Java, Objective-C, Swift
 - Memcache, Redis, APC, XCache
 - Unix Server administration
 - GitHub, Gitlab, Bitbucket
